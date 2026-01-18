@@ -1,61 +1,61 @@
-# Galapagos: Vampire Survivors-like Project
+# 갈라파고스: 뱀파이어 서바이벌 라이크 프로젝트
 
-A 2D roguelike game inspired by Vampire Survivors, set in an infinite sea where a fisherman battles waves of sea monsters using harpoons and various weapons.
+무한한 바다를 배경으로 한 뱀파이어 서바이벌류 2D 로그라이크 게임입니다. 어부가 작살과 다양한 무기를 사용하여 바다 괴물들과 싸우는 게임입니다.
 
-## 🎮 Game Overview
+## 🎮 게임 개요
 
-- **Genre:** 2D Roguelike / Survival
-- **Engine:** Unity 6000.0.42f1
-- **Platform:** PC (Windows)
-- **Visual Style:** Flat 2D aesthetic (hand-drawn style on paper) with an infinite sea tilemap.
+- **장르:** 2D 로그라이크 / 서바이벌
+- **엔진:** Unity 6000.0.42f1
+- **플랫폼:** PC (Windows)
+- **시각적 스타일:** 무한한 바다 타일맵을 배경으로 한 평면 2D (손으로 그린 듯한 A4 용지 스타일)
 
-## ✨ Key Features
+## ✨ 주요 기능
 
-- **Infinite Map:** Seamlessly looping sea environment.
-- **Weapon System:**
-  - Mouse-directed attacks (Melee & Ranged).
-  - Auto-targeting "Scanner" system to locate nearest enemies.
-- **Optimization:**
-  - **PoolManager:** Efficient object pooling for monsters, projectiles, and effects to maintain high performance with large enemy counts.
-- **Dynamic Spawning:**
-  - Weighted spawn system via `Spawner` and `SpawnData`.
-  - Separate logic for general mobs and special elite monsters.
+- **무한 맵:** 끊임없이 이어지는 바다 환경.
+- **무기 시스템:**
+  - 마우스 방향 조작 공격 (근접 및 원거리).
+  - 가장 가까운 적을 탐지하는 자동 타겟팅 "스캐너" 시스템.
+- **최적화:**
+  - **PoolManager:** 몬스터, 투사체 및 효과를 위한 효율적인 오브젝트 풀링을 통해 대규모 적 개체 수에도 높은 성능 유지.
+- **동적 스폰:**
+  - `Spawner` 및 `SpawnData`를 통한 가중치 기반 스폰 시스템.
+  - 일반 몬스터와 특수/엘리트 몬스터에 대한 개별적인 스폰 로직.
 
-## 🦀 Monsters
+## 🦀 몬스터
 
-The game features various enemies with distinct behaviors implemented via State Machines:
+게임은 스테이트 머신(State Machine)을 통해 구현된 독특한 행동을 가진 다양한 적들을 특징으로 합니다:
 
-### 1. Basic Enemies
-- **Chasers:** Simple logic that relentlessly follows the player.
+### 1. 기본 몬스터
+- **추적자:** 플레이어를 끈질기게 따라오는 단순한 로직.
 
-### 2. Special Enemies (State Machine Based)
-- **BombCrab:** Tracks the player, stops within range, and lobs a bomb that explodes after a delay. Features a "bobbing" animation when the bomb lands in the water.
-- **DrillCrab:** Detects the player and charges rapidly after a warning indication.
-- **ShootingFish (WIP):** A ranged enemy (Lionfish concept) that fires a spread of spines.
+### 2. 특수 몬스터 (스테이트 머신 기반)
+- **폭탄 게 (BombCrab):** 플레이어를 추적하다가 범위 내에 들어오면 멈춰서 지연 폭발하는 폭탄을 던집니다. 폭탄이 물에 착지했을 때 "둥둥 떠다니는" 애니메이션 효과가 있습니다.
+- **드릴 게 (DrillCrab):** 플레이어를 감지하고 경고 표시 후 빠르게 돌진합니다.
+- **슈팅 피쉬 (ShootingFish) (작업 중):** (쏠배감팽 컨셉) 가시를 부채꼴 형태로 발사하는 원거리 몬스터입니다.
 
-## 🛠️ Technical Implementation
+## 🛠️ 기술 구현
 
-- **GameManager:** Central hub managing game state, time, player survival, levels, and experience.
-- **Input System:** Uses Unity's new Input System for responsive controls.
-- **Visual Effects:**
-  - Custom shaders (`RadialFill`, `LineFill`) for attack warning indicators.
-  - specialized particle effects for explosions and hits.
+- **GameManager:** 게임 상태, 시간, 플레이어 생존, 레벨 및 경험치를 관리하는 중앙 허브.
+- **입력 시스템:** 반응성 있는 컨트롤을 위해 Unity의 새 입력 시스템을 사용합니다.
+- **시각 효과:**
+  - 공격 경고 표시를 위한 커스텀 셰이더 (`RadialFill`, `LineFill`).
+  - 폭발 및 피격 효과를 위한 특수 파티클 효과.
 
-## 🚀 Getting Started
+## 🚀 시작하기
 
-1. Clone the repository:
+1. 저장소 클론:
    ```bash
    git clone https://github.com/YourUsername/Galapagos_VampireSurvivors.git
    ```
-2. Open the project in **Unity 6000.0.42f1** or later.
-3. Open the `Assets/Scenes/SampleScene.unity` scene.
-4. Press **Play** to start.
+2. **Unity 6000.0.42f1** 이상 버전으로 프로젝트를 엽니다.
+3. `Assets/Scenes/SampleScene.unity` 씬을 엽니다.
+4. **Play** 버튼을 눌러 게임을 시작합니다.
 
-## 📝 Recent Updates
-- Implemented state patterns for `BombCrab` and `DrillCrab`.
-- Added custom shaders for warning indicators.
-- Refactored `EnemyStats` for centralized stat management.
-- Fixed physics issues with enemy knockback and sliding.
+## 📝 최근 업데이트
+- `BombCrab` 및 `DrillCrab`에 대한 상태 패턴 구현.
+- 경고 표시를 위한 커스텀 셰이더 추가.
+- 중앙화된 스탯 관리를 위해 `EnemyStats` 리팩토링.
+- 몬스터 넉백 및 미끄러짐과 관련된 물리 문제 수정.
 
 ---
-*Developed by Team Galapagos*
+*Team Galapagos 개발*
