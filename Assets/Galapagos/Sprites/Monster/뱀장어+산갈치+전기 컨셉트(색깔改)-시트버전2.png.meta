@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: c804ee02dfd75c84c8e6984cf72110bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5636070358339500611
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_0"
+  - first:
+      213: -5077019150709076096
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_1"
+  - first:
+      213: -7783065700855312702
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_2"
+  - first:
+      213: -7506219385360704278
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_3"
+  - first:
+      213: 3428921994224839868
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_4"
+  - first:
+      213: -8841515828752931288
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_5"
+  - first:
+      213: 72975587511112570
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_6"
+  - first:
+      213: -8074300547289642278
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_7"
+  - first:
+      213: -8011333912056704883
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_8"
+  - first:
+      213: -2265455568885346116
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_9"
+  - first:
+      213: 4230524784022820443
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_10"
+  - first:
+      213: -6401818111711781991
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_11"
+  - first:
+      213: -7050544370016727517
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_12"
+  - first:
+      213: 4383937932463223878
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_13"
+  - first:
+      213: -1010819440513380555
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_14"
+  - first:
+      213: -202561392978986791
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_15"
+  - first:
+      213: -242407529705816292
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_16"
+  - first:
+      213: -9074078345817908093
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_17"
+  - first:
+      213: 3060788777456395563
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_18"
+  - first:
+      213: 233158574512509682
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_19"
+  - first:
+      213: -7405110629201024033
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_20"
+  - first:
+      213: 5303120325122135615
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_21"
+  - first:
+      213: -7900248110451774992
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_22"
+  - first:
+      213: 5242578896507009820
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_23"
+  - first:
+      213: -916419690368154025
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_24"
+  - first:
+      213: -9008779692724049472
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_25"
+  - first:
+      213: 7531065748200563292
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_26"
+  - first:
+      213: -2273228216544858641
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_27"
+  - first:
+      213: 1762020925999634277
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_28"
+  - first:
+      213: -9138288713640049682
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_29"
+  - first:
+      213: -6067062547287157048
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_30"
+  - first:
+      213: -4496460356908056593
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_31"
+  - first:
+      213: -1825832955263868198
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_32"
+  - first:
+      213: 6442693569826018662
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_33"
+  - first:
+      213: 2548432233628307131
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_34"
+  - first:
+      213: -4733473106872630399
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_35"
+  - first:
+      213: 3257599351360362231
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_36"
+  - first:
+      213: -3491039687589182200
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_37"
+  - first:
+      213: 6441117633900875064
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_38"
+  - first:
+      213: 1158409897773096261
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_39"
+  - first:
+      213: -7113221090086101886
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_40"
+  - first:
+      213: 7584504381809906682
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_41"
+  - first:
+      213: 7726912697194375977
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_42"
+  - first:
+      213: 1730658897529265375
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_43"
+  - first:
+      213: -8846478877419106568
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_44"
+  - first:
+      213: -9093416020749968155
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_45"
+  - first:
+      213: 1814214883515444047
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_46"
+  - first:
+      213: 3673357075233516544
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_47"
+  - first:
+      213: 447698278546873792
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_48"
+  - first:
+      213: 2164366685232748165
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_49"
+  - first:
+      213: -2373938358160708680
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_50"
+  - first:
+      213: 5965912856471180349
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_51"
+  - first:
+      213: 1409684258257302952
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_52"
+  - first:
+      213: 6405488991673351566
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_53"
+  - first:
+      213: 6896662016005366363
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_54"
+  - first:
+      213: -2704843512683888642
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_55"
+  - first:
+      213: -7853514789928390868
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_56"
+  - first:
+      213: 3405184768533924159
+    second: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_57"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b9c4c38a0c5154ba340951cb90c403
+      internalID: 732744413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_1"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146f6fd2f512421428be7fa98616fcd4
+      internalID: -568147808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_2"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbca6445353cdb4093c48c6b740e5ae
+      internalID: -689737816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_3"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3ac3cd9f682b84b943a4aa9834dc92
+      internalID: -1436180659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_4"
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e7261a83926ba498accc8c9fcef1c6
+      internalID: -1648428078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_5"
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f088a17d8b3bad4ca4bd245cc46355e
+      internalID: -1503567747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7a5d5896c13f04445b6699fc1949cd25
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_0": 732744413
+      "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_1": -568147808
+      "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_2": -689737816
+      "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_3": -1436180659
+      "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_4": -1648428078
+      "\uBC40\uC7A5\uC5B4+\uC0B0\uAC08\uCE58+\uC804\uAE30 \uCEE8\uC149\uD2B8(\uC0C9\uAE54\u6539)-\uC2DC\uD2B8\uBC84\uC8042_5": -1503567747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

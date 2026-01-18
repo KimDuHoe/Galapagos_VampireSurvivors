@@ -1,0 +1,45 @@
+{
+    "name": "Input_weapon",
+    "maps": [
+        {
+            "name": "Weapon",
+            "id": "36b8008c-8262-4a4d-b3c1-6eeda23e9260",
+            "actions": [
+                {
+                    "name": "Swap_Weapon",
+                    "type": "Button",
+                    "id": "745ff21e-32cc-4b5f-b97a-13b5bc531b76",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5af94597-e069-4c68-b534-0bab93a9df81",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Swap_Weapon",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6c9f8256-d689-411f-963e-a1dce6dc1014",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Swap_Weapon",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
